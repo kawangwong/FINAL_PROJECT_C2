@@ -54,7 +54,7 @@ Create a shared repo for the team. Ensure all members have access to push change
 - **Format:** App is demoable, a more detailed overview of how various technologies will work together (physical design)
 
 
-### Part 3: Creating a Pipeline
+### Part 3: Create a Pipeline
 
 Now that you have your app deployed and have an idea of how the various technologies can work together, let's add a CI/CD pipeline to automate the process of build, test, deploy. Use your favorite CI/CD tool (examples above) to integrate your processes into a single system.
 
