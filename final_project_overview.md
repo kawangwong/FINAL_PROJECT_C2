@@ -31,11 +31,11 @@ Let's take some time to introduce everyone to their respective teams:
 
 ## How Should Our Team Work Together?
 
-Your team is expected to meet daily (on weekdays) and conduct a standup, mimicing what your team would be doing in a DevOps role. Tasks will be broken down into discrete, actionable items using GitHub projects and work will be assigned to each team member. We will go over this process as a class in the coming weeks.
+Your team is expected to meet daily (on weekdays) and conduct a standup, mimicing what your team would be doing in an agile DevOps role. Tasks will be broken down into discrete, actionable items using GitHub projects and work will be assigned to each team member. We will go over this process as a class in the coming weeks.
 
 ## Project Deliverables
 
-The Final Project is divided into 5 deliverables, each building on top of skills learned previously to scaffold students' learning over the entire course.
+The Final Project is divided into 6 deliverables, each building on top of skills learned previously to scaffold students' learning over the entire course.
 
 ### Part 1: Agree on a Project & Plan it Out
 
@@ -64,12 +64,12 @@ Now that you have your app deployed and have an idea of how the various technolo
 
 ### Part 4: Let's Make it Fancy: Containers & IaC
 
-Now that we have a basic pipeline going, let's take some time to add some bells and whistles. If the app is not Dockerized already, this is the time to build a Dockerfile and add it to the pipeline. Figure out what pieces of infrastrcture you can rewrite as IaC. Create a runbook or describe the process for running the IaC.
+Now that we have a basic pipeline going, let's take some time to add some bells and whistles. If the app is not Dockerized already, this is the time to build a Dockerfile and add it to the pipeline. Figure out what pieces of infrastructure you can rewrite as IaC. Create a runbook or describe the process for running the IaC.
 
 - **Requirements**: App is containerized and is added into the pipeline, Infrastructure as Code is written to replace some of the existing infrastructure that was deployed manually
 - **Format:** Code for containerizing the app is available (Dockerfile), Infrastructure as Code is added (Terraform or CloudFormation)
 
-### Part 5: Operational Procedures, Monitoring & Alerting
+### Part 5: Define Operational Procedures, Monitoring & Alerting
 
 Let's take a look back on your project and document processes that are crucial to its operation. If you were a new team member that needed to operate the system, what would you need to know? Create a runbook for common commands and how to run the stack as if you knew nothing.
 
@@ -83,7 +83,7 @@ If an error is introduced into the system, how would an engineer know? Is there 
 With your team, create a 30 minute presentation, based on a slide deck, that showcases the most important aspects of your project. Start at a high level and give an overview the system. Discuss why you chose each piece of technology. Then dive in and show a demo of the system in operation. Explain the steps of the CI/CD pipeline and show how the app is deployed. Show what happens if an error occurs. Give an overview of the infrastructure. Explain your thought process and how the project evolved.
 
 - **Requirements**: Convey your goals, limits/assumptions, methods and their justification, findings, and conclusions. Define technical terms. Include graphics and visualizations.
-- **Format:** Slide deck containing presentation. As well as a demo showcasing the highlights of the stack
+- **Format:** Slide deck containing presentation as well as a demo showcasing the highlights of the stack in operation
 
 
 ## Approximate Due Dates
