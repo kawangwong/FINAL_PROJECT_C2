@@ -58,7 +58,7 @@ Create a shared repo for the team. Ensure all members have access to push change
 
 Now that you have your app deployed and have an idea of how the various technologies can work together, let's add a CI/CD pipeline to automate the process of build, test, deploy. Use your favorite CI/CD tool (examples above) to integrate your processes into a single system.
 
-- **Requirements**: CI/CD pipeline is created using a tool of your choice and a draft of the pipeline design is due. The objective is that the previous deployment is now automated based on a certain trigger, for example pushes to a GitHub repo tirgger a build, test, deploy
+- **Requirements**: CI/CD pipeline is created using a tool of your choice and a draft of the pipeline design is due. The objective is that the previous deployment is now automated based on a certain trigger, for example pushes to a GitHub repo trigger a build, test, deploy
 - **Format:** code for a basic CI/CD pipeline is available and the CI/CD process is demoable
 
 
