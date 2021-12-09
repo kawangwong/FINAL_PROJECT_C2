@@ -92,7 +92,7 @@ Assignment | Date
 ------- | --------- |
 Part 1 | 12/15
 Part 2 | 12/21
-Part 3 | 12/28
-Part 4 | 1/4
-Part 5 | 1/8
+Part 3 | 12/30
+Part 4 | 1/6
+Part 5 | 1/13
 Part 6 | TBD
