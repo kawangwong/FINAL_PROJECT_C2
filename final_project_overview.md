@@ -21,11 +21,10 @@ Your project *must* contain all of the 7 components above but the specific techn
 
 Let's take some time to introduce everyone to their respective teams:
   
-  * **Team 1:** Alex, Cleon, Franklin, Juan
+  * **Team 1:** Alex, Cleon, Franklin, Juan, Nabeel
   * **Team 2:** Andrew, Darren, Denzel, Xavier
-  * **Team 3:** Dilobar, Kawang, Ricardo
-  * **Team 4:** Ibrahima, Kenneth, Nabeel
-  * **Team 5:** Bishajit, Jespson, Levy , Maisha
+  * **Team 3:** Dilobar, Kawang, Ricardo, Kenneth
+  * **Team 5:** Bishajit, Jespson, Levy , Maisha, Ibrahima
   * **Team 6:** Hector, Ian, Jodi, Kohiin
   * **Team 7:** Brittney, Mohamed, Sai, Zach
 
