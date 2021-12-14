@@ -32,9 +32,9 @@ This deliverable will provide you with guidance to help you select an awesome to
    - Initial findings
 
 #### BONUS
-4. Beyond the two required topics, what other potential topics might you explore? (e.g. 3 or more)
-5. Create a shared GitHub repo for your team to collaborate.
-6. Deploy the application (coming next in Part 02).
+1. Beyond the two required topics, what other potential topics might you explore? (e.g. 3 or more)
+2. Create a shared GitHub repo for your team to collaborate.
+3. Deploy the application (coming next in Part 02).
  
  ***Remember, if you can't find an application as a basis for your project, then you can't move forward.***
 
