@@ -94,12 +94,12 @@ With your team, create a 30 minute presentation, based on a slide deck, that sho
 
 **DUE DATE**: Saturday, January 22nd
 
-## Approximate Due Dates
+## Due Dates
 
 Assignment | Date 
 ------- | --------- |
 Part 1 - Proposal & Systems Design | Wednesday, December 15th
-Part 2 - Deploy the app & Iterate | Tuesday, December 21st
+Part 2 - Deploy the App & Iterate | Tuesday, December 21st
 Part 3 - CI/CD Pipeline | Tuesday, January 4th
 Part 4 - Containerization & IaC | Tuesday, January 11th
 Part 5 - Monitoring, Alerting & Documentation | Tuesday, January 18th
