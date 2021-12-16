@@ -3,7 +3,7 @@
 
 Congratulations! You have made it to the final stretch of your journey here at Kura Labs. Take a second to look back and see how far you've come!
 
-Introducing the Final Project! This project will be a culmination of all of your efforts throughout Kura and combine many of the DevOps techonologies you have learned throughout the last few months.
+Introducing the Final Project! This project will be a culmination of all of your efforts throughout Kura and combine many of the DevOps technologies you have learned throughout the last few months.
 
 ## High Level Requirements
 
@@ -43,6 +43,8 @@ Pitch us on potential ideas for an end-to-end DevOps project. Think of topics yo
 - **Requirements:** Come up with a few project ideas, including a specific app, potential technologies for each category, as well as some sample code. Remember, if you can’t find an app, you can’t start on your project.
 - **Deliverable:** Choose a specific app to work on and submit a rough draft of systems design brainstorming (could be drawn out on paper at this stage)
 
+**DUE DATE**: Wednesday, December 15th
+
 ### Part 2: Deploy the App & Start Iterating
 
 Use your newfound skills to kickstart your project by deploying the app in one of the ways we learned in class. At this stage, it could be using a basic deployment method – just focus on getting it out there for the world to see.
@@ -52,6 +54,7 @@ Create a shared repo for the team. Ensure all members have access to push change
 - **Requirements:** App is deployed, rough draft of physical design is due
 - **Deliverable:** App is demoable, a more detailed overview of how various technologies will work together (physical design) is due
 
+**DUE DATE**: Tuesday, December 21st
 
 ### Part 3: Create a Pipeline
 
@@ -60,6 +63,7 @@ Now that you have your app deployed and have an idea of how the various technolo
 - **Requirements:** CI/CD pipeline is created using a tool of your choice and a draft of the pipeline design is due. The objective is that the previous deployment is now automated based on a certain trigger, for example pushes to a GitHub repo trigger a build, test, deploy
 - **Deliverable:** Code for a basic CI/CD pipeline is available and the CI/CD process is demoable
 
+**DUE DATE**: Tuesday, January 4th
 
 ### Part 4: Let's Make it Fancy: Containers & IaC
 
@@ -67,6 +71,8 @@ Now that we have a basic pipeline going, let's take some time to add some bells 
 
 - **Requirements:** App is containerized and is added into the pipeline, Infrastructure as Code is written to replace some of the existing infrastructure that was deployed manually
 - **Deliverable:** Code for containerizing the app is available (Dockerfile), Infrastructure as Code is added (Terraform or CloudFormation)
+
+**DUE DATE**: Tuesday, January 11th
 
 ### Part 5: Define Operational Procedures, Monitoring & Alerting
 
@@ -77,6 +83,8 @@ If an error is introduced into the system, how would an engineer know? Is there 
 - **Requirements:** Create documentation for operating the system, add meaningful logging messages, create a system for monitoring and alerting
 - **Deliverable:** "Runbook" documentation available, demo of monitoring and alerting system
 
+**DUE DATE**: Tuesday, January 18th
+
 ### Part 6: Present Your Project
 
 With your team, create a 30 minute presentation, based on a slide deck, that showcases the most important aspects of your project. Start at a high level and give an overview the system. Discuss why you chose each piece of technology. Then dive in and show a demo of the system in operation. Explain the steps of the CI/CD pipeline and show how the app is deployed. Show what happens if an error occurs. Give an overview of the infrastructure. Explain your thought process and how the project evolved.
@@ -84,14 +92,15 @@ With your team, create a 30 minute presentation, based on a slide deck, that sho
 - **Requirements:** Convey your goals, limits/assumptions, methods and their justification, findings, and conclusions. Define technical terms. Include graphics and visualizations.
 - **Deliverable:** Slide deck containing presentation as well as a demo showcasing the highlights of the stack in operation
 
+**DUE DATE**: Saturday, January 22nd
 
-## Approximate Due Dates
+## Due Dates
 
 Assignment | Date 
 ------- | --------- |
-Part 1 | 12/15
-Part 2 | 12/21
-Part 3 | 12/30
-Part 4 | 1/6
-Part 5 | 1/13
-Part 6 | TBD
+Part 1 - Proposal & Systems Design | Wednesday, December 15th
+Part 2 - Deploy the App & Iterate | Tuesday, December 21st
+Part 3 - CI/CD Pipeline | Tuesday, January 4th
+Part 4 - Containerization & IaC | Tuesday, January 11th
+Part 5 - Monitoring, Alerting & Documentation | Tuesday, January 18th
+Part 6 - Final Presentations | Saturday, January 22nd
